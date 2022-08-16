@@ -1,5 +1,8 @@
 # `BlockEntity` Render Distance
 
+By default, most block entities (e.g. banners) can only be seen from 64 blocks away.
+This mod allows you to freely control the render distance.
+
 ## Configuration
 To change the amount by which the default render distance is modified:
 1. Stop your current Minecraft session
