@@ -1,9 +1,19 @@
-# Fabric Example Mod
+# `BlockEntity` Render Distance
 
-## Setup
+## Configuration
+To change the amount by which the default render distance is modified:
+1. Stop your current Minecraft session
+2. Go to your `/config/` folder which is located in your Minecraft directory
+3. Edit the `blockentityrenderdistance.properties` file
+4. Save the config and restart your game
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+```MiniYAML
+# The amount by which the default render distance is modified
+renderdistance.modifier=1.0
+```
+
+## Downloads
+You can download the mod from the [GitHub downloads page](https://github.com/Trichtern/block-entity-render-distance/releases).
 
 ## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This project is licensed under the [MIT license](LICENSE).
