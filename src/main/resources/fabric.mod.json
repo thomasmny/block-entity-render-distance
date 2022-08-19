@@ -3,7 +3,7 @@
   "id": "blockentityrenderdistance",
   "version": "${version}",
 
-  "name": "BlockEntity Render Distance",
+  "name": "Block Entity Render Distance",
   "description": "Control from how far special blocks like banners can be seen!",
   "authors": [
     "Trichtern"
